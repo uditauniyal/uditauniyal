@@ -117,4 +117,4 @@ Every project isn't just a one-off - they share architectural principles I've de
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-udita.uniyal1630%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:udita.uniyal1630@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-udita--uniyal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/udita-uniyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-udita--uniyal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/udita-uniyal-66aa42245)
