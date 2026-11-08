@@ -1,8 +1,9 @@
-<a href="https://github.com/uditauniyal">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
-    <img alt="udita@uniyal neofetch" src="./assets/light_mode.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark_mode.svg">
+  <img alt="Udita Uniyal. Most AI sounds right. I measure whether it is." src="./assets/light_mode.svg" width="100%">
+</picture>
+
 </a>
 
 ---
