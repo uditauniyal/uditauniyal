@@ -35,7 +35,7 @@ PROFILE = [
     ("Host", "Banasthali Vidyapith"),
     ("Kernel", "B.Tech IT, CGPA 8.9"),
     ("Role", "AI Engineer Intern @ ARTPARK, IISc"),
-    ("Currently", "small language models"),
+    ("Currently", "small language models, OSS"),
     None,
     ("Research.Focus", "RAG evaluation, calibration"),
     ("Research.Paper", "1st author, ECIR 2027 (review)"),
