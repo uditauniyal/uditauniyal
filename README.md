@@ -14,4 +14,3 @@
 - **Research** · first-author paper under review at ECIR 2027 on where retrieval-augmented systems fail, built on India's 2024 criminal-law recodification
 - **Building** · the evaluation harness behind [legal-mvp](https://github.com/uditauniyal/legal-mvp), and [GenomeSift](https://github.com/uditauniyal/GenomeSift) in C++17
 
-**
